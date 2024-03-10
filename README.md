@@ -6,17 +6,6 @@
 
 Chirp is a full-stack web application designed to replicate the core functionality of Twitter. With features like posting chirps (tweets), replying to chirps, sharing, liking, and tagging other users, Chirp provides a familiar social media experience while also offering unique functionalities. The project emphasizes user interaction, community building, and seamless authentication.
 
-Key Features:
-
-Chirping: Users can compose and post chirps, sharing their thoughts, opinions, or updates with their followers and the wider community.
-Replying: Chirp enables users to engage in conversations by replying to chirps, fostering discussions and interactions.
-Sharing: Users have the option to share chirps they find interesting or noteworthy, amplifying their reach within the platform.
-Liking: Similar to Twitter's "Like" functionality, users can express their appreciation for chirps by liking them.
-Tagging: Chirp allows users to tag other users in their chirps, facilitating direct communication and engagement.
-Authentication: Built-in authentication powered by Clerk ensures secure access to the platform, offering sign-in options through Google or email/password.
-User Profiles: After authentication, users can create and customize their profiles, providing personal information, interests, and a bio to enhance their presence on the platform.
-C: Chirp encourages users to form communities based on shared interests, fostering connections and interactions among like-minded individuals.
-
 ## Tech Stack
 
 - Next.js
